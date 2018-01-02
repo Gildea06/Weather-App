@@ -1,0 +1,9 @@
+{
+  "short_name": "Weather App",
+  "name": "5 Day Weather Forecast",
+  
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
