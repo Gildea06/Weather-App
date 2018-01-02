@@ -1,11 +1,11 @@
 Install
 
 
-Clone repo
-Open OS terminal
-cd into Weather App
-Run npm install
-Run npm start
+1. Clone repo
+2. Open OS terminal
+3. cd into Weather App
+4. run npm install
+5. Run npm start
 
 App should open on localhost:3000 automatically
 
